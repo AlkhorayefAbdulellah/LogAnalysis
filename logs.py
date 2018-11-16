@@ -56,7 +56,7 @@ def MostViewdAuthors():
 def BadDay():
     query = """
         SELECT * FROM (
-            SELECT date(time),round(100.0*sum(case log.status when '200 OK' then 0 else 1 end)/count(log.status),2) as "Error" 
+            SELECT date(time),round(100.0*sum(case log.status when '200 OK' then 0 else 1 end)/count(log.status),1) as "Error" 
             FROM log group by date(time) 
             ORDER BY "Error" desc) as subq 
 		where \"Error\" > 1
