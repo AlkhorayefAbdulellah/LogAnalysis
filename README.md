@@ -13,7 +13,7 @@ on of the worst problems IS: not copying my work from my OS to the VM so i had t
   * [Python3](https://www.python.org/)
   * [Vagrant](https://www.vagrantup.com/)
   * [VirtualBox](https://www.virtualbox.org/)
-  * [gitBASH] (https://git-scm.com/downloads)
+  * [gitBASH] (https://git-scm.com/downloads/)
   
 #### Setup Project:
   1. Downloud newsdata.sql
