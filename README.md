@@ -28,10 +28,9 @@ on of the worst problems IS: not copying my work from my OS to the VM so i had t
   6. cd LogAnalysis
   7. python3 logs.py (and all Magic will start ~)
   
-  ### Or you can do the headic and mess with the data yourself:
+  ##### Or you can do the headic and mess with the data yourself:
   
   6. psql -d news -f newsdata.sql (to loud the data in local database)
-  
   7. psql -d news (to Enter the server and mess with it)
 
 #### Useful comands
