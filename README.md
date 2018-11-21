@@ -1,11 +1,11 @@
 Hello, My name is Abdulellah. welcoome to my messy workplace ~ 
 
-I can't count how many obstacles I had to reach this point, my bigest Enmey was Vagrant..
+I can't count how many obstacles I had to overcome to reach this point, my bigest enemy was Vagrant..
 But thanks to Allah and my kind Instracter Rwan and my classmates 
 I beat it and every challenge that try to put me in.
 
 one of the Problems is with this Smart Vagrant...
-is not copy my work from my OS to the VM so i had to copy every time i make a change.
+on of the worst problems IS: not copying my work from my OS to the VM so i had to copy every time i make a change.
 
 ### How to Run?
 
