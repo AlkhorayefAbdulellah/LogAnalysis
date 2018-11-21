@@ -1,12 +1,18 @@
+#!/user/bin/env python3
+
 import psycopg2
 DBNAME = "news"
 
 #Most sleek way to do it, insted of doing conn in every fun. as well as send querry and return result of each Q in the same def. 
 def run_query(query): 
     #Connects to the database
-	#Runs the querys
+    #Runs the querys
     #Returns the results
     db = psycopg2.connect('dbname=' + DBNAME)
+    try:
+        db = psycopg2.connect('dbname=' + DBNAME)
+    except:
+    print ("Unable to connect to the database")
     c = db.cursor()
     c.execute(query)
     Answer = c.fetchall()
