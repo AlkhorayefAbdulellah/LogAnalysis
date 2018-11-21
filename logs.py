@@ -8,7 +8,6 @@ def run_query(query):
     #Connects to the database
     #Runs the querys
     #Returns the results
-    db = psycopg2.connect('dbname=' + DBNAME)
     try:
         db = psycopg2.connect('dbname=' + DBNAME)
     except:
