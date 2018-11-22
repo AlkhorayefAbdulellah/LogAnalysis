@@ -1,7 +1,7 @@
 Hello, My name is Abdulellah. welcoome to my messy workplace ~ 
 
 I can't count how many obstacles I had to overcome to reach this point, my bigest enemy was Vagrant..
-But thanks to Allah and my kind Instracter Rwan and my classmates 
+But thanks to Allah and my kind Instracter Rawan and my classmates 
 I beat it and every challenge that try to put me in.
 
 one of the Problems is with this Smart Vagrant...
@@ -13,7 +13,7 @@ on of the worst problems IS: not copying my work from my OS to the VM so i had t
   * [Python3](https://www.python.org/)
   * [Vagrant](https://www.vagrantup.com/)
   * [VirtualBox](https://www.virtualbox.org/)
-  * [gitBASH] (https://git-scm.com/downloads/)
+  * [gitBASH](https://git-scm.com/downloads/)
   
 #### Setup Project:
   1. Downloud newsdata.sql
